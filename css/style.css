@@ -23,21 +23,21 @@ body.fh5co-overflow {
 
 ::-webkit-selection {
   color: #fff;
-  background: #c51aff;
+  background: black;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #c51aff;
+  background: black;
 }
 
 ::selection {
   color: #fff;
-  background: #c51aff;
+  background: black;
 }
 
 a {
-  color: #c51aff;
+  color: black;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -85,9 +85,9 @@ p {
 }
 
 .btn-primary {
-  background: #c51aff;
+  background: black;
   color: #fff;
-  border: 2px solid #c51aff;
+  border: 2px solid black;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #f6bf5b !important;
@@ -95,11 +95,11 @@ p {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #c51aff;
-  border: 2px solid #c51aff;
+  color: black;
+  border: 2px solid black;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #c51aff;
+  background: black;
   color: #fff;
 }
 
@@ -204,7 +204,7 @@ p {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #c51aff;
+  border-color: black;
 }
 
 #fh5co-header {
@@ -652,7 +652,7 @@ figure figcaption {
   text-decoration: none;
 }
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
-  background: #c51aff;
+  background: black;
 }
 .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
   outline: none;
